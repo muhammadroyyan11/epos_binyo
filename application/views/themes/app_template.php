@@ -42,8 +42,8 @@
         <nav class="navbar navbar-static-top" role="navigation">
           <div class="col-md-5">
             <div class="app-info">
-              <div class="store-name zillap-nitro">Binyo Vape Store</div>
-              <div class="store-street"><i>Vape Losss</i></div>
+              <div class="store-name zillap-nitro">Hani Kosmetik</div>
+              <div class="store-street"><i>Majenang</i></div>
             </div>
           </div>
           <div class="navbar-custom-menu">
@@ -148,7 +148,7 @@
       <footer class="main-footer no-print">
         <div class="pull-right hidden-xs">
           <b>Version</b> 1.0.0 (Beta)
-        </div><small> &copy; Copyright 2020 Muhammad Royyan Zamzami</small>
+        </div><small> &copy; Copyright 2020 Hani Kosmetik</small>
       </footer>
     </div><!-- ./wrapper -->
     <script src="<?php echo base_url('assets/plugins/jQuery/jQuery-2.1.4.min.js') ?>"></script>

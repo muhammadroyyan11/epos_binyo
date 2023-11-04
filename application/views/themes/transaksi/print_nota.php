@@ -108,7 +108,7 @@
     <body <?php if($this->input->get('print')) echo 'onload="window.print();"'; ?>><!-- window.print(); -->
         <div class="content">
             <div class="title">
-                <strong>Binyo Vape Store</strong><br><i class="slogan">Jl. Krisna Niwen No. 4 <br> Wagir, Kabupaten Malang</i>
+                <strong>Hani Kosmetik</strong><br><i class="slogan">Jl. Krisna Niwen No. 4 <br> Wagir, Kabupaten Malang</i>
             </div>
             <div class="head-desc">
                 <div class="date"><?php echo $date->format('d/m/Y H:i A'); ?><br><?php echo "No.".$transaction->ID_transaction; ?></div>
